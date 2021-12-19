@@ -9,3 +9,4 @@ hello push
 hello push terminal
 hello push terminal1
 hello push ssh test
+hello push pull test
